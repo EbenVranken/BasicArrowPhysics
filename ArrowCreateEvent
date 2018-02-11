@@ -1,0 +1,3 @@
+// Arrow create event
+hspd = random_range(15,23); // Horizontal speed is random, so sometimes the arrow flies further then the next time.
+vspd = 0; // The vertical speed variable is 0, because in the step event we make it bigger.
