@@ -1,0 +1,6 @@
+// Object Arrow Step event
+
+phy_position_x += hspd; // Making the arrow move horizontally to the right
+phy_position_y += vspd; // Making the arrow go downwards
+vspd += 0.1; // Making the arrow go downwards faster the further it travels
+phy_rotation += random_range(0.1,1); // Rotating the arrow randomly
