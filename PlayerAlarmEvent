@@ -1,0 +1,9 @@
+/// Alarm event
+instance_create_depth(obj_player.x, obj_player.y, 1, obj_arrow); // Making of the arrow
+// If you have a sprite wich has a bow, you will have to numbercrunch the x and y the arrow is shot from.
+
+// I used instance_create_depth, that's because in game maker 2 you don't have instance_create like you used to. 
+// If you have an older version of game maker, you can just use this code:
+
+// instance_create(obj_player.x, obj_player.y, obj_arrow);
+
