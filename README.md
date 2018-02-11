@@ -3,6 +3,9 @@ A basic arrow physics system for GML (Game Maker Language)
 
 Learn to shoot arrows that are somewhat realistic
 
+https://imgur.com/mUYdBpG <<<--- Final result, 
+IMPORTANT: Your arrows won't fade, I made as an extra.
+
 # ABOUT GAME MAKER LANGUAGE
 Game maker language is a very easy to learn, hard to master coding language, Mostly used to make games (hence the name)
 
