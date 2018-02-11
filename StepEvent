@@ -1,0 +1,15 @@
+/// Player Step event
+// Just to clear things up; our player will not walk. You can implement it yourself, so just to make this easier to read it won't be in there.
+
+// Shoot Variables
+shoot_key = keyboard_check(vk_space); // I used the space key here, but it can be whatever
+
+// Shoot
+if shoot_key {
+  	if (alarm[0] = -1) {
+		alarm[0] = 5;
+	}
+}
+
+
+// Making an alarm; just so the player cannot have a arrow machine gun.
